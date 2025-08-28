@@ -1,0 +1,10 @@
+# Program Lab1A.py
+# Demonstrate the difference between print with and without a newline.
+# Prints two lines of output representing a rocket countdown.
+print (&quot;Three... &quot;, end =&quot; &quot;)
+print (&quot;Two... &quot;, end =&quot; &quot;)
+print (&quot;One... &quot;, end =&quot; &quot;)
+print (&quot;Zero...&quot; , end =&quot; &quot;)
+print (&quot;Liftoff!&quot;)
+# appears on first line
+print (&quot;Houston, we have a problem.&quot;)
