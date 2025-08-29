@@ -1,0 +1,12 @@
+# Class: CSE 1321L
+# Section: Python
+# Term: Semester One
+# Instructor: Justin McClung
+# Name: Syeda Tayyiba
+# Lab: 2C
+
+width = input ("Enter a width: ")
+height = input ("Enter a height: ")
+area = int (width) * float (height)
+perimeter = int (width) + float (height) * 3
+print ("The area is: " + str (area))
