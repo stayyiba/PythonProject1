@@ -1,0 +1,15 @@
+# Class: CSE 1321L
+# Section: Python
+# Term: Semester One
+# Instructor: Justin McClung
+# Name: Syeda Tayyiba
+# Lab: 2
+
+# Lab 2A
+name1 = input("Enter a name: ")
+name2 = input("Enter another name: ")
+verb = input("Enter a verb: ")
+adverb = input("Enter an adverb: ")
+
+# The user input will get plugged into the following prewritten sentence
+print("Once upon a time, there was a person named ", name1 , " who had a child named ", name2 , "This child would ", verb, adverb, "while singing to strangers.")
